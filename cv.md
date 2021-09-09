@@ -1,4 +1,5 @@
-![IMG_20200413_111946](https://user-images.githubusercontent.com/26907855/132729928-2b67982a-5f01-4c71-a1d0-a797dc0fcdbd.jpg)
+![new-photo](https://user-images.githubusercontent.com/26907855/132730317-03675c8d-fdce-41ab-9a79-c5bb9c22ecda.jpg)
+
 
 # Koval Sergey
 
