@@ -240,7 +240,7 @@ a {
   background-color: #8284a4;
   border: 2px solid #000000;
   border-radius: 8px;
-  background: url(../images/virtex-screen.JPG) top / cover no-repeat;
+  background: top / cover no-repeat;
 }
 
 .project-item:last-child {
