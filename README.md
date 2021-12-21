@@ -1,1 +1,1 @@
-https://maxsettings.github.io/rsschool-cv/
+https://maxsettings.github.io/rsschool-cv-old/
